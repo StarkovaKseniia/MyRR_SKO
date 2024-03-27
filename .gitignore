@@ -1,0 +1,8 @@
+# ignore file1.html
+file1.html
+
+# ignore files-copies
+*.~*
+
+# ignore files in folder dir1/
+dir1/
