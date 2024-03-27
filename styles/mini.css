@@ -1,0 +1,8 @@
+div.mini {
+    width: 25%;
+    position: relative;
+  }
+
+div.mini img {
+    transform: translate(150%, 0%);
+  }
